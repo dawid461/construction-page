@@ -51,7 +51,7 @@ const SwimmingPoolZabkowice = () => {
             <main className='flex flex-col w-full items-center'>
                 <BannerPortfolio
                     heading='Park wodny w Ząbkowicach Śląskich'
-                    location='ul. Janusza Kusocińskiego 16, 57-200 Ząbkowice Śląskie'
+                    location='57-200 Ząbkowice Śląskie'
                     client='Gmina Ząbkowice Śląskie'
                 />
                 <Gallery Images={ImagesZabkowice}/>

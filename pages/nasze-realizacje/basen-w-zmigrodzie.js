@@ -50,7 +50,7 @@ const SwimmingPoolInZmigrod = () => {
             <main className='flex flex-col w-full items-center'>
                 <BannerPortfolio
                     heading='Basen w Żmigrodzie'
-                    location='ul. Sportowa 13, 55-140 Żmigród'
+                    location='55-140 Żmigród'
                     client='Gmina Żmigród'/>
                 <Gallery Images={Images}/>
                 <PortfolioContactUs/>

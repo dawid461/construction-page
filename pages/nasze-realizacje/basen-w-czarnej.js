@@ -49,7 +49,7 @@ const SwimminPoolInCzarna = () => {
             <main className='flex flex-col w-full items-center'>
                 <BannerPortfolio
                     heading='Basen w Czarnej'
-                    location='ul. Konarskiego 23A, 39-215 Czarna'
+                    location='39-215 Czarna'
                     client='Gmina Czarna'/>
                 <Gallery Images={Images}/>
                 <PortfolioContactUs/>

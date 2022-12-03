@@ -54,7 +54,7 @@ const SwimmingPoolInPiwnicznaZdroj = () => {
             <main className='flex flex-col w-full items-center'>
                 <BannerPortfolio
                     heading='Basen w Piwnicznej-Zdrój'
-                    location='Łomnickie 85, 33-350 Piwniczna-Zdrój'
+                    location='33-350 Piwniczna-Zdrój'
                     client='Miasto i Gmina Piwniczna Zdrój'/>
                 <Gallery Images={Images}/>
                 <PortfolioContactUs/>

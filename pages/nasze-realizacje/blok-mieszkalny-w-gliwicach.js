@@ -65,7 +65,7 @@ const BlockOfFlatsInGliwice = () => {
             <main className='flex flex-col w-full items-center'>
                 <BannerPortfolio
                     heading='Blok mieszkalny w Gliwicach'
-                    location='ul. Konarskiego 10, 44-100 Gliwice'
+                    location='44-100 Gliwice'
                     client='AB Development sp. z o.o.'/>
                 <Gallery Images={Images}/>
                 <PortfolioContactUs/>

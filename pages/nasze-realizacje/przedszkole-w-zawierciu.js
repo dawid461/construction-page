@@ -56,7 +56,7 @@ const SchoolInZawiercie = () => {
             <main className='flex flex-col w-full items-center'>
                 <BannerPortfolio
                     heading='Przedszkole w Zawierciu'
-                    location='ul. Wyszyńskiego 5A, 42-400 Zawiercie'
+                    location='42-400 Zawiercie'
                     client='Urząd Miejski w Zawierciu'/>
                 <Gallery Images={Images}/>
                 <PortfolioContactUs/>

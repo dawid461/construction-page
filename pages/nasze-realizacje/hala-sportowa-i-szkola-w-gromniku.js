@@ -52,7 +52,7 @@ const SchoolInGromnik = () => {
             <main className='flex flex-col w-full items-center'>
                 <BannerPortfolio
                     heading='Budowa hali sportowej i termomodernizacja budynku szkoły w Gromniku'
-                    location='ul. Witosa 4, 33-180 Gromnik'
+                    location='33-180 Gromnik'
                     client='Urząd Gminy w Gromniku'/>
                 <Gallery Images={Images}/>
                 <PortfolioContactUs/>

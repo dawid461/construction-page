@@ -50,7 +50,7 @@ const SportsHallInSzczawnoZdroj = () => {
             <main className='flex flex-col w-full items-center'>
                 <BannerPortfolio
                     heading='Hala sportowa w Szczawnie-Zdrój'
-                    location='ul. Słoneczna 1, 58-310 Szczawno-Zdrój'
+                    location='58-310 Szczawno-Zdrój'
                     client='Gmina Miejska Szczawno- Zdrój'
                 />
                 <Gallery Images={Images}/>

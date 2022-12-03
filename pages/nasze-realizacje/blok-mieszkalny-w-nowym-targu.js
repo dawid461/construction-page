@@ -50,7 +50,7 @@ const BlockOfFlatsInNowyTarg = () => {
             <main className='flex flex-col w-full items-center'>
                 <BannerPortfolio
                     heading='Blok mieszkalny w Nowym Targu'
-                    location='ul. Polana Szaflarska 6, 34-400 Nowy Targ'
+                    location='34-400 Nowy Targ'
                     client='Js Construction sp. z o.o.'/>
                 <Gallery Images={Images}/>
                 <PortfolioContactUs/>

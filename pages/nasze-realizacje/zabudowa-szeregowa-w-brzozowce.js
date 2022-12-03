@@ -52,7 +52,7 @@ const HousesInBrzozowka = () => {
             <main className='flex flex-col w-full items-center'>
                 <BannerPortfolio
                     heading='Zabudowa szeregowa w Brzozówce'
-                    location='ul. Leśna, 33-100 Brzozówka '
+                    location='33-100 Brzozówka '
                     client=''/>
                 <Gallery Images={Images}/>
                 <PortfolioContactUs/>

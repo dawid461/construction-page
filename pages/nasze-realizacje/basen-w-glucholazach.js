@@ -50,7 +50,7 @@ const SwimminPoolInGlucholazy = () => {
             <main className='flex flex-col w-full items-center'>
                 <BannerPortfolio
                     heading='Basen w Głuchołazach'
-                    location='ul. Kościuszki 55 A, 48-340 Głuchołazy'
+                    location='48-340 Głuchołazy'
                     client='Urząd Miejski Głuchołazy'/>
                 <Gallery Images={Images}/>
                 <PortfolioContactUs/>

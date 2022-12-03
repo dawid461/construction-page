@@ -56,7 +56,7 @@ const MunicipalSportsHouseInTarnow = () => {
             <main className='flex flex-col w-full items-center'>
                 <BannerPortfolio
                     heading='Przebudowa miejskiego domu sportu w Tarnowie'
-                    location='ul. Traugutta 5A, 33-101 Tarnów'
+                    location='33-101 Tarnów'
                     client='Tarnowski Ośrodek Sportu i Rekreacji'/>
                 <Gallery Images={Images}/>
                 <PortfolioContactUs/>

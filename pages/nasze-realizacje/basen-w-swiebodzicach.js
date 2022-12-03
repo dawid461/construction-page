@@ -58,7 +58,7 @@ const SwimminPoolInSwiebodzice = () => {
             <main className='flex flex-col w-full items-center'>
                 <BannerPortfolio
                     heading='Basen w Świebodzicach'
-                    location='ul. Rekreacyjna 1A, 58-160 Świebodzice'
+                    location='58-160 Świebodzice'
                     client='Ośrodek sportu i rekreacji Świebodzice'/>
                 <Gallery Images={Images}/>
                 <PortfolioContactUs/>

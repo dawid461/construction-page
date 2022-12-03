@@ -53,7 +53,7 @@ const SchoolInBukowice = () => {
             <main className='flex flex-col w-full items-center'>
                 <BannerPortfolio
                     heading='Rozbudowa szkoły w Bukowicach'
-                    location='ul. Wrocławska 43, 56-321 Bukowice'
+                    location='56-321 Bukowice'
                     client='Gmina Krośnice'
                 />
                 <Gallery Images={Images}/>

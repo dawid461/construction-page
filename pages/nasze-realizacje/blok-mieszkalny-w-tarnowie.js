@@ -48,7 +48,7 @@ const BlockOfFlatsInTarnow = () => {
             <main className='flex flex-col w-full items-center'>
                 <BannerPortfolio
                     heading='Blok mieszkalny w Tarnowie'
-                    location=''
+                    location='33-100 Tarnów'
                     client=''/>
                 <Gallery Images={Images}/>
                 <PortfolioContactUs/>

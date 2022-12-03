@@ -57,7 +57,7 @@ const SchoolInLipnicaMała = () => {
             <main className='flex flex-col w-full items-center'>
                 <BannerPortfolio
                     heading='Modernizacja szkoły w Lipnicy Małej'
-                    location='Lipnica Mała 346, 34-482 Lipnica Mała'
+                    location='34-482 Lipnica Mała'
                     client='Urząd Gminy Jabłonka'
                 />
                 <Gallery Images={Images}/>

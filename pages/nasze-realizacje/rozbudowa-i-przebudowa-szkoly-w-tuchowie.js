@@ -48,7 +48,7 @@ const SchoolInTuchów = () => {
             <main className='flex flex-col w-full items-center'>
                 <BannerPortfolio
                     heading='Rozbudowa i przebudowa szkoły w Tuchowie'
-                    location='ul. Jana Pawła II 6, 33-170 Tuchów'
+                    location='33-170 Tuchów'
                     client='Urząd Miejski w Tuchowie'/>
                 <Gallery Images={Images}/>
                 <PortfolioContactUs/>

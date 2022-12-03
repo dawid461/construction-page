@@ -61,7 +61,7 @@ const SwimmingPoolInRadzynPodlaski = () => {
             <main className='flex flex-col w-full items-center'>
                 <BannerPortfolio
                     heading='Basen w Radzyniu Podlaskim'
-                    location='ul. Sikorskiego, 21-315 Radzyń Podlaski'
+                    location='21-315 Radzyń Podlaski'
                     client='Miasto Radzyń Podlaski'/>
                 <Gallery Images={Images}/>
                 <PortfolioContactUs/>
