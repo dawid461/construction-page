@@ -16,7 +16,7 @@ const WhatWeDo = () => {
 
                     <div className='sm:w-full lg:w-1/2 flex flex-col'>
                         <Heading heading='Wykonujemy'/>
-                         <ListWithOffer/>
+                        <ListWithOffer/>
                     </div>
 
                 </div>

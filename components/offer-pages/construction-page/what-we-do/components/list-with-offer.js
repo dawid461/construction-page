@@ -1,13 +1,14 @@
 import {motion} from "framer-motion";
+
 const OneImage = () => {
     return (
         <>
-            <motion.ul  animate={{y:[50,0]}}
-                         transition={{duration:1, ease:"easeOut"}}
-                         initial={{ opacity: 0}}
-                         whileInView={{ opacity: 1}}
-                         viewport={{ once: true }}
-                         className='text-md text-thirdColor text-left font-light leading-6 list-disc list-inside'>
+            <motion.ul animate={{y: [50, 0]}}
+                       transition={{duration: 1, ease: "easeOut"}}
+                       initial={{opacity: 0}}
+                       whileInView={{opacity: 1}}
+                       viewport={{once: true}}
+                       className='text-md text-thirdColor text-left font-light leading-6 list-disc list-inside'>
                 <li>obiekty zamieszkania zbiorowego – bloki mieszkalne, hotele</li>
                 <li>obiekty użyteczności publicznej – szkoły, baseny, hale sportowe</li>
                 <li>obiekty z zakresu budownictwa przemysłowego – hale, magazyny</li>

@@ -2,6 +2,7 @@ import Heading from "./components/heading";
 import Description from "./components/description";
 import Button from "./components/button";
 import Arrow from "./components/arrow";
+
 const BannerConstruction = () => {
     return (
         <>
@@ -12,9 +13,9 @@ const BannerConstruction = () => {
                     <Description/>
                     <Button/>
                 </div>
-              <div className='flex sm:h-72 lg:h-80 items-end'>
-                <Arrow/>
-              </div>
+                <div className='flex sm:h-72 lg:h-80 items-end'>
+                    <Arrow/>
+                </div>
             </div>
         </>
     );

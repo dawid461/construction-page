@@ -9,7 +9,8 @@ const AboutUs = () => {
     return (
         <>
             <div
-                className='flex sm:w-11/12 xl:w-9/12 max-w-screen-2xl flex-col justify-center sm:items-center lg:items-start h-full sm:mt-24 lg:mt-40 '>
+                className='flex sm:w-11/12 xl:w-9/12 max-w-screen-2xl flex-col justify-center sm:items-center
+                lg:items-start h-full sm:mt-24 lg:mt-40 '>
                 <Heading/>
                 <div className='w-full flex sm:flex-col-reverse lg:flex-row'>
                     <Button/>

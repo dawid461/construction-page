@@ -18,12 +18,13 @@ const Boxes = () => {
                 </motion.div>
 
                 <div
-                    className='flex sm:w-9/12 lg:w-8/12 xl:w-1/2  sm:flex-col md:flex-row items-center justify-evenly lg:mb-16'>
+                    className='flex sm:w-9/12 lg:w-8/12 xl:w-1/2  sm:flex-col md:flex-row items-center justify-evenly
+                    lg:mb-16'>
                     <Box title='Budownictwo' number='01' urlPage='/budownictwo'/>
                     <Box title='Drogownictwo' number='02' urlPage='/drogownictwo' delayTime='0.2'/>
                 </div>
 
-                <div className='flex sm:w-9/12 lg:w-8/12 xl:w-1/2 sm:flex-col md:flex-row items-center  justify-evenly'>
+                <div className='flex sm:w-9/12 lg:w-8/12 xl:w-1/2 sm:flex-col md:flex-row items-center justify-evenly'>
                     <Box title='Kolejnictwo' number='03' urlPage='/kolejnictwo' delayTime='0.4'/>
                     <Box title='Wynajem' number='04' urlPage='/wynajem-maszyn' delayTime='0.6'/>
                 </div>

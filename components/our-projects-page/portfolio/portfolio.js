@@ -150,15 +150,16 @@ const PortfolioItems = [
 const Portfolio = () => {
     return (
         <>
-            <div className='sm:w-11/12 xl:w-10/12 max-w-screen-2xl flex flex-col sm:mt-20 lg:mt-10 mb-24'>
+            <div className='sm:w-11/12 xl:w-10/12 max-w-screen-2xl flex flex-col sm:mt-20 lg:mt-10 mb-24'
+                 id='sprawdz-portfolio'>
                 <div className='grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 gap-5
                 justify-items-center content-center'>
 
                     {PortfolioItems.map(item => (
-                        <Card   key={item.id}
-                                title={item.title}
-                                linkToPage={item.link}
-                                ImageUrl={item.photoSrc}
+                        <Card key={item.id}
+                              title={item.title}
+                              linkToPage={item.link}
+                              ImageUrl={item.photoSrc}
                         />
                     ))}
 

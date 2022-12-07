@@ -24,8 +24,8 @@ const Gallery = (props) => {
                 <div className={model? "model open" : "model"}>
                     <img src={tempingSrc} alt=""/>
                     <button className='close-button-gallery' onClick={()=>setModel(false)}>X</button>
-                    <button className='left-button'> &larr; </button>
-                    <button className='right-button'> &rarr; </button>
+                    {/*<button className='left-button'> &larr; </button>
+                    <button className='right-button'> &rarr; </button>*/}
                 </div>
 
                 <div className='grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 gap-10

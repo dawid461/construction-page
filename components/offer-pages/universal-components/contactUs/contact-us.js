@@ -1,4 +1,5 @@
 import Button from "./components/button";
+
 const ContactUs = (props) => {
     return (
         <>
@@ -18,7 +19,7 @@ const ContactUs = (props) => {
                 <div className='flex justify-center items-center sm:w-full lg:w-1/2 max-w-screen-2xl bg-bg44444 sm:pt-7
                  sm:pb-7 lg:pt-0 lg:pb-0'>
                     <div className='flex justify-center items-center'>
-                       <Button/>
+                        <Button/>
                     </div>
                 </div>
             </div>

@@ -10,8 +10,8 @@ const Button = () => {
                         viewport={{once: true}}
                         className='w-full flex flex-col justify-center items-start mt-6'>
 
-                <a href="#" className="cursor-pointer flex items-center w-60 h-16 border border-px px-9 hover:px-3 hover:border-none
-                duration-500 justify-between border-white text-white font-light tracking-wider
+                <a href="#sprawdz-portfolio" className="cursor-pointer flex items-center w-60 h-16 border border-px px-9 hover:px-3
+                hover:border-none duration-500 justify-between border-white text-white font-light tracking-wider
                 stroke-white hover:stroke-black hover:bg-white hover:text-black">
                     Sprawdź
                     <div className="h-6 w-6 block">

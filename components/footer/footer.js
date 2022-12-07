@@ -2,6 +2,7 @@ import Logo from "./components/logo";
 import Menu from "./components/menu";
 import SocialMedia from "./components/social-media";
 import Copyright from "./components/copyright";
+
 const Footer = () => {
     return (
         <>
@@ -15,7 +16,8 @@ const Footer = () => {
                 <Copyright/>
 
                 <p className="text-xs text-center text-white sm:mt-10 xl:mt-16 mb-5">Made with ❤️ by
-                    <a href='https://dinkystudio.pl/' className='hover:text-primaryColor duration-300 delay-75'> dinkystudio.pl</a>
+                    <a href='https://dinkystudio.pl/'
+                       className='hover:text-primaryColor duration-300 delay-75'> dinkystudio.pl</a>
                 </p>
             </div>
         </>
