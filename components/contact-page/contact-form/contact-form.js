@@ -55,7 +55,7 @@ const ContactForm = () => {
                         <ReCAPTCHA
                             ref={recaptchaRef}
                             size="invisible"
-                            sitekey="6Lfnp-EcAAAAAMkbB4B-4ERnOB7J2XIexjZ9ui6Y"
+                            sitekey="#"
                         />
 
                         <div className='w-full flex sm:flex-col lg:flex-row'>
